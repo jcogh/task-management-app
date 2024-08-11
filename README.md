@@ -1,6 +1,6 @@
 # Task Management Application
 
-A modern, real-time task management application built with React, TypeScript, and Flask. This application allows users to create, view, update, and delete tasks in a sleek, dark-themed interface.
+A modern, real-time task management application built with React, TypeScript, and Flask. This application allows users to create, view, update, and delete tasks.
 
 ## Features
 
