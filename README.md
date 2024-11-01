@@ -102,11 +102,3 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgements
-
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Flask](https://flask.palletsprojects.com/)
-- [Socket.IO](https://socket.io/)
